@@ -152,10 +152,6 @@
 		height: auto;
 		width: 100%;
 	}
-	.grid-item .grid-text-container {
-		opacity: 1;
-		transform: translateY(calc(-100% - 20px));
-	}
 	.grid-container .grid-item:nth-child(3) .grid-text-container p,
 	.grid-container .grid-item:nth-child(4) .grid-text-container p {
 		color: #000;
