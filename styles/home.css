@@ -1,0 +1,19 @@
+.content {
+	max-width: 60%;
+	margin: auto;
+}
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+p, a {
+	font-size: 24px;
+}
+.content a {
+	color: #488bfe;
+}
+@media (max-width: 767px) {
+	.content {
+		max-width: 80%;
+	}
+}
